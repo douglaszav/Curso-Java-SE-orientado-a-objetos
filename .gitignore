@@ -1,0 +1,5 @@
+.idea
+out/production/MyMedicalAppointments
+*.iml
+*xml
+*class
