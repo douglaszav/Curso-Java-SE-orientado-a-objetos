@@ -5,3 +5,10 @@
 * Herencia
 * Interfaces
 * etc...
+
+## Las tecnologías utilizadas en el curso fueron:
+```
+ Visual Studio Code
+ IntelliJ IDEA
+ Java SE 
+```
